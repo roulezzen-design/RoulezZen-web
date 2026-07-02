@@ -335,7 +335,7 @@ nav a:active{
 
 }
 
-.Gilles-photo img{
+.gilles-photo img{
     width:220px;
     height:220px;
     object-fit: cover;
@@ -729,7 +729,7 @@ footer{
         text-align:center;
     }
 
-    .Gilles-photo img{
+    .gilles-photo img{
         width:220px;
         height:220px;
     }
