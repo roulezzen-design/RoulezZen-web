@@ -336,11 +336,11 @@ nav a:active{
 }
 
 .Gilles-photo img{
-    width:420px;
-    height: 500px;
+    width:220px;
+    height:220px;
     object-fit: cover;
     object-position: center;
-    border-radius: 15px;
+    border-radius: 50%;
     
 }
 
@@ -730,8 +730,8 @@ footer{
     }
 
     .Gilles-photo img{
-        width:250px;
-        height:250px;
+        width:220px;
+        height:220px;
     }
 
     .hero-calculateur h1{
